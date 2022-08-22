@@ -1,6 +1,6 @@
 
 body {
-    background: url(../images/person1.jpg) no-repeat center center fixed;
+    background: url(./assets/person1.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -26,4 +26,4 @@ body {
   h4{
     color: white;
 
-  }
+}
