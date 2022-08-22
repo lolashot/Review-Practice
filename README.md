@@ -18,7 +18,7 @@ Download the code or clone the repo to your local PC.
 
 
 ### Prerequisites
-- text editor
+- text editor.
 
 ## Author
 
